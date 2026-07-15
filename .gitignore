@@ -1,0 +1,6 @@
+/vendor/
+writable/logs/*.log
+writable/cache/*
+writable/session/*
+writable/debugbar/*
+!writable/**/index.html
